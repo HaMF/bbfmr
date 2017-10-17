@@ -1,5 +1,8 @@
 # bbFMR
 
+**bbFMR has been renamed to pybbfmr and is maintained with 
+major updates at https://gitlab.com/wmi/pybbfmr/.**
+
 This repository contains a python package to load, process and
 model 2D (field-frequency) broadband ferromagnetic resonance 
 (hence the name bbFMR) measurements.
